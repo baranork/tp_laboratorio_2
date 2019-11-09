@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
