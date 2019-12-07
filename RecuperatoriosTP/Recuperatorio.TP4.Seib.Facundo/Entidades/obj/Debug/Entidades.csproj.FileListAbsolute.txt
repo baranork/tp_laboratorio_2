@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\Seib.Facundo.TP4.2A\Entidades\bin\Debug\Entidades.dll.config
-C:\Users\User\source\repos\Seib.Facundo.TP4.2A\Entidades\bin\Debug\Entidades.dll
-C:\Users\User\source\repos\Seib.Facundo.TP4.2A\Entidades\bin\Debug\Entidades.pdb
-C:\Users\User\source\repos\Seib.Facundo.TP4.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\User\source\repos\Seib.Facundo.TP4.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Seib.Facundo.TP4.2A\Entidades\obj\Debug\Entidades.dll
-C:\Users\User\source\repos\Seib.Facundo.TP4.2A\Entidades\obj\Debug\Entidades.pdb
