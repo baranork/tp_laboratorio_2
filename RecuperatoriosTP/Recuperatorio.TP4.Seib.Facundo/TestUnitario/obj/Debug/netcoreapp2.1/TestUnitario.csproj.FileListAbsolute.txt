@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\TestUnitario.deps.json
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\TestUnitario.runtimeconfig.json
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\TestUnitario.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\TestUnitario.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\TestUnitario.pdb
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.AssemblyInfo.cs
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.pdb
+=======
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\TestUnitario.deps.json
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\TestUnitario.runtimeconfig.json
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\TestUnitario.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\TestUnitario.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\bin\Debug\netcoreapp2.1\TestUnitario.pdb
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.AssemblyInfo.cs
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\TestUnitario\obj\Debug\netcoreapp2.1\TestUnitario.pdb
+>>>>>>> ee9bbf0cb6f34fe2b849ef010570f783045a7e22

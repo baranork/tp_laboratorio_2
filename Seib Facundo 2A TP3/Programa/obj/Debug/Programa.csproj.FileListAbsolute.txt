@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Programa\bin\Debug\Programa.exe.config
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Programa\bin\Debug\Programa.exe
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Programa\bin\Debug\Programa.pdb
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Programa\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Programa\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Programa\obj\Debug\Programa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Programa\obj\Debug\Programa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Programa\obj\Debug\Programa.csproj.CopyComplete
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Programa\obj\Debug\Programa.exe
+C:\Users\User\Desktop\Programacion\TP 3\Seib.Facundo.2A.TP3\Programa\obj\Debug\Programa.pdb

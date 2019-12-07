@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.pdb
+=======
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\User\source\repos\Seib.Facundo.TP4.2A\MainCorreo\obj\Debug\MainCorreo.pdb
+>>>>>>> ee9bbf0cb6f34fe2b849ef010570f783045a7e22
