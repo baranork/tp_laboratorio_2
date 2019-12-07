@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\TestUnitarios\\TestUnitarios.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesAbstracta\\EntidadesAbstracta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesAbstracta\\EntidadesAbstracta.csproj",
+        "projectName": "EntidadesAbstracta",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesAbstracta\\EntidadesAbstracta.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesArchivos\\EntidadesArchivos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesArchivos\\EntidadesArchivos.csproj",
+        "projectName": "EntidadesArchivos",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesArchivos\\EntidadesArchivos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj",
+        "projectName": "EntidadesExcepciones",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesInstanciables\\EntidadesInstanciables.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesInstanciables\\EntidadesInstanciables.csproj",
+        "projectName": "EntidadesInstanciables",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesInstanciables\\EntidadesInstanciables.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesAbstracta\\EntidadesAbstracta.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesAbstracta\\EntidadesAbstracta.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesArchivos\\EntidadesArchivos.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesArchivos\\EntidadesArchivos.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\TestUnitarios\\TestUnitarios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\TestUnitarios\\TestUnitarios.csproj",
+        "projectName": "TestUnitarios",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\TestUnitarios\\TestUnitarios.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\TestUnitarios\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesAbstracta\\EntidadesAbstracta.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesAbstracta\\EntidadesAbstracta.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesArchivos\\EntidadesArchivos.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesArchivos\\EntidadesArchivos.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesExcepciones\\EntidadesExcepciones.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesInstanciables\\EntidadesInstanciables.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Recuperatorio.TP3.Seib.Facundo\\EntidadesInstanciables\\EntidadesInstanciables.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

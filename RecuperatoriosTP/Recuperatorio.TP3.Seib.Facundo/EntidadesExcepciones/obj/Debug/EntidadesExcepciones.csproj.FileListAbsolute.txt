@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesExcepciones\bin\Debug\EntidadesExcepciones.dll
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesExcepciones\bin\Debug\EntidadesExcepciones.pdb
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesExcepciones\obj\Debug\EntidadesExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesExcepciones\obj\Debug\EntidadesExcepciones.dll
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesExcepciones\obj\Debug\EntidadesExcepciones.pdb
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesExcepciones\obj\Debug\EntidadesExcepciones.csprojAssemblyReference.cache

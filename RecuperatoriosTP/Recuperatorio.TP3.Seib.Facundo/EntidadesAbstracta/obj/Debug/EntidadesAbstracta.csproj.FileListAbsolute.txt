@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesAbstracta\bin\Debug\EntidadesAbstracta.dll
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesAbstracta\bin\Debug\EntidadesAbstracta.pdb
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesAbstracta\bin\Debug\EntidadesExcepciones.dll
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesAbstracta\bin\Debug\EntidadesExcepciones.pdb
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesAbstracta\obj\Debug\EntidadesAbstracta.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesAbstracta\obj\Debug\EntidadesAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesAbstracta\obj\Debug\EntidadesAbstracta.csproj.CopyComplete
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesAbstracta\obj\Debug\EntidadesAbstracta.dll
+C:\Users\User\source\repos\Recuperatorio.TP3.Seib.Facundo\EntidadesAbstracta\obj\Debug\EntidadesAbstracta.pdb
